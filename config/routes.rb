@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :users
+  resources :welcome
 
   get 'welcome/homepage'
 
